@@ -1,9 +1,9 @@
-def using_until(levitation_force)
-  x = 0
-    until x == 10
+def using_until(x)
+  i = 0
+    until i == 10
     puts "Wingardium Leviosa"
-    x +=1
+    i +=1
     end
 end
 
-using_until
+using_until(1)
