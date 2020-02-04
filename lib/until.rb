@@ -5,4 +5,6 @@ def using_until(x)
     end
 end
 
+var levitation_force = 0
+
 using_until(levitation_force)
