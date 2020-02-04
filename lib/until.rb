@@ -6,5 +6,5 @@ def using_until(x)
     end
 end
 
-6 = levitation_force
+levitation_force = 6
 using_until(levitation_force)
