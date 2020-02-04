@@ -1,8 +1,8 @@
 def using_until(x)
-  i = 0
-    until i == 10
+
+    until x == 10
     puts "Wingardium Leviosa"
-    i +=1
+    x +=1
     end
 end
 
