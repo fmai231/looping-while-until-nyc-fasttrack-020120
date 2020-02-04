@@ -7,4 +7,4 @@ end
 
 var levitation force = 0
 
-using_until(levitation_force)
+using_until(levitation force)
