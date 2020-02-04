@@ -7,5 +7,6 @@ def using_while(x)
   end
 end
 
+var levitation_force = 0
 using_while(levitation_force)
 
