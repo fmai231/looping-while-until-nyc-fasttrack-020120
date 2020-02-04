@@ -1,4 +1,4 @@
-def using_until(x)
+def using_unti
 
     until x == 10
     puts "Wingardium Leviosa"
