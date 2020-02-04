@@ -5,6 +5,4 @@ def using_until(x)
     end
 end
 
-levitation_force = 0
-
 using_until(levitation force)
