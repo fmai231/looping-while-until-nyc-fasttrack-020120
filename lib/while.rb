@@ -1,4 +1,4 @@
-6 = levitation_force
+levitation_force = 6
 
 def using_while(x)
   while x < 10
